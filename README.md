@@ -1,5 +1,3 @@
-# Web-application-I-filmLibrary-site-ITA
-
 # BigLab: "Film Library"
 ## Student: SCICOLONE OMAR 
 
